@@ -147,7 +147,7 @@ In Python, x[(exp1, exp2, …, expN)] is equivalent to x[exp1, exp2, …, expN];
 :::
 
 :::note
-The returned value can also be `Vector` / `Matrix` if `a` is a vector/matrix field, see [Vectors./vector.md) for more details.
+The returned value can also be `Vector` / `Matrix` if `a` is a vector/matrix field, see [Vectors](./vector.md) for more details.
 :::
 
 ## Meta data
